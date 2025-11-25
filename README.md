@@ -21,8 +21,8 @@ private void textBox_KeyPress(object sender, KeyPressEventArgs e)
 
 ### Установка и запуск
 
-[!IMPORTANT]
-Важно! Калькулятор работает только на ОС Windows не ниже 7!
+> [!IMPORTANT]
+> Важно! Калькулятор работает только на ОС Windows не ниже 7!
 
 1. Скачать Calculator.exe
 2. Скачать и установить среду для выполнения .net franework 4.7.2
@@ -32,8 +32,9 @@ private void textBox_KeyPress(object sender, KeyPressEventArgs e)
 |---|---|
 |.NET Framework 4.7.2 Runtime|[Скачать](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net472)|
 
-[!IMPORTANT]
-Скачивайте именно runtime!
+> [!IMPORTANT]
+> Скачивайте именно runtime!
+
 ![.net runtime](img/runtime.png)
 
 ### Пошаговая инструкция
@@ -42,7 +43,8 @@ private void textBox_KeyPress(object sender, KeyPressEventArgs e)
 
 **Шаг №1**\
 Скачайте калькулятор с репозитория.
-![Скачивание калькулятора]()
+![Скачивание калькулятора](img/howtodownload1.png)
+![Скачивание калькулятора2](img/howtodownload2.png)
 
 **Шаг №2**\
 Скачайте по ссылке выше .net framework 4.7.2 и установите.
