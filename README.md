@@ -27,7 +27,6 @@ private void textBox_KeyPress(object sender, KeyPressEventArgs e)
 1. Скачать Calculator.exe
 2. Скачать и установить среду для выполнения .net franework 4.7.2
 3. Запустите калькулятор
-4. ~~Желание запустить калькулятор~~
 
 |Необходимое ПО|Ссылка|
 |---|---|
